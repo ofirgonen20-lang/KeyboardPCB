@@ -4,6 +4,8 @@ i created this pcb from the hackclub blueprint project
 
 # Project Images
 
+![PCB](CASE.png)
+
   ## **schematic  1**
 ![PCB](IMAGES/schematic.png)
 
