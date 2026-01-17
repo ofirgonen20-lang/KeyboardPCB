@@ -1,6 +1,15 @@
-# mypcb-s
-my first pcb
-i created this pcb from the hackclub blueprint project
+# DARKCHEF’s Hackpad – Custom 3×2 KMK Macropad with OLED, RGB & EC11 Encoder
+
+A custom-designed 4×4 mechanical macropad built around the Seeed XIAO RP2040, featuring:
+
+Matrix-scanned mechanical switches with diodes
+
+SK6812 Mini RGB LEDs
+
+0.91" OLED display
+
+KMK firmware (CircuitPython)
+
 
 # Project Images
 
