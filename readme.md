@@ -25,3 +25,16 @@ KMK firmware (CircuitPython)
   ## **assembled case**
 ![PCB](IMAGES/assembled.png)
 
+# Bill of Materials (BOM)
+
+1x XIAO RP2040
+
+6x Cherry MX keyboard switch
+
+1x EC11 rotary encoder with push switch
+
+2x SK6812 MINI-E RGB LED
+
+6x 1N4148 diode (DO-35)
+
+1x 0.91" SSD1306 OLED (4-pin)
