@@ -1,4 +1,4 @@
-# DARKCHEF’s Hackpad – Custom 3×2 KMK Macropad with OLED, RGB & EC11 Encoder
+# OFIR’s Hackpad – Custom 3×2 KMK Macropad with OLED, RGB & EC11 Encoder
 
 A custom-designed 4×4 mechanical macropad built around the Seeed XIAO RP2040, featuring:
 
